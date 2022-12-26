@@ -17,6 +17,13 @@ public class Calculator {
 
     }
 
+    public void second_method()
+    {
+        int account, deposit;
+
+
+        
+    }
 
     private static final int WINDOW_WIDTH = 410;
     private static final int WINDOW_HEIGHT = 600;
