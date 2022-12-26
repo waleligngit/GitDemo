@@ -20,9 +20,10 @@ public class Calculator {
     public void second_method()
     {
         int account, deposit;
+    }
+    //forgot password feature
+    public void forgot_password(){
 
-
-        
     }
 
     private static final int WINDOW_WIDTH = 410;
